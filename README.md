@@ -16,11 +16,9 @@ This repository contains my CTF achievements, hackathon participation certificat
 ## Areas of Interest
 
 - Cybersecurity and Information Security
-- Penetration Testing and VAPT
+- Vulnerablity Assesment And Penetration Testing 
 - Web Application Security
-- Digital Forensics and Incident Response
-- Network Security and Security Operations
-- Red Teaming and Blue Teaming
+- Red Teaming ( Offensive Security )
 
 ## About This Repository
 
